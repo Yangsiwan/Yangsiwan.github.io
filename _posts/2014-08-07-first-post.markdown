@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "사피엔스를 읽고"
+title:  "자기 "
 date:   2020-05-28 11:26:23
 permalink: /first-post.html
 ---
