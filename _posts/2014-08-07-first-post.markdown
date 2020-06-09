@@ -5,6 +5,8 @@ date:   2020-05-28 11:26:23
 permalink: /first-post.html
 ---
 <span class="image featured"><img src="/images/pic02.jpg" alt=""></span>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus augue. In fringilla nibh ac efficitur blandit. Nullam eu pretium mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur vulputate lacinia tortor, vel ultrices ligula. Etiam hendrerit aliquam tristique. Nulla tincidunt tortor id quam dignissim fermentum.
-
+이름 : 양시완
+학부 : 전산전자공학부
+관심분야 : 증강현실, 앱 개발
+생일 : 2000년 12월 19
 
